@@ -1,0 +1,86 @@
+/*header*/
+.nav-item a{
+
+    text-decoration: none;
+    border: 1px solid white;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 7px;
+    margin: 2px;
+}
+*{
+    margin: 0%;
+    padding: 0;
+}
+/* header{
+    background-color: black;
+   
+} */
+#logo{
+    margin-left: 5%;
+    margin-top: 15px;
+    margin-bottom: 10px;
+
+}
+.nav-item{
+
+    float:right;
+    margin-top: 30px;
+    margin-right: 40px;
+}
+.nav-item a:hover{
+    background-color: teal;
+}
+
+*{
+ 
+    padding: 0;
+    margin: 0;
+}
+/*header ends*/
+
+/*Background image*/
+body{
+    background-size: cover;
+}
+/*Background image ends*/
+
+/*Sidebar content*/
+.content{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 150px;
+}
+
+
+/*Sidebar End*/
+
+
+/*login form*/
+
+.login{
+    border: 2px solid red;
+    background-color: beige;
+    height: 25em;
+
+}
+.login h2{
+    text-align: center;
+}
+.login input{
+    height: 1.5em;
+}
+
+/*login form ends*/
+/*Courses*/
+
+.card-body{
+    background-color: gainsboro;
+}
+
+/*courses ends*/
+/*footer*/
+footer{
+ background-color: black;
+ height: 2.5em;
+}
+
+/*footer ends*/
